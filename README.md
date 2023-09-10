@@ -1,4 +1,4 @@
-> # Hello There 👋
+> # Hello There! 👋
 > ---
 > I'm **Malik** a student and software developer and I am currently working on building my portfolio as well as finishing some other projects
 > I work primarily on backend and ML Embedded Software (although not very advanced projects at the time), but recently have started working with GUI and
